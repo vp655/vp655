@@ -1,21 +1,21 @@
-### Virochan Pandit
+# Virochan Pandit
 
 ## About
-🎓 Applied Math @ Johns Hopkins (BS/MS)  
+🎓 Applied Math @ Johns Hopkins (BS/MS) 
+
 📈 Quant Researcher @ Walleye Capital 
+
 📄 First-author publication in *Theory & Decision* (https://link.springer.com/article/10.1007/s11238-025-10104-5) 
 
 ## 🛠️ Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-</p>
+![Python](https://img.shields.io/badge/Python-blue)
+![Java](https://img.shields.io/badge/Java-red)
+![C++](https://img.shields.io/badge/C++-00599C)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C)
+![XGBoost](https://img.shields.io/badge/XGBoost-017CEE)
+![Linux](https://img.shields.io/badge/Linux-black)
+
 
 ## Top Repositories 
 

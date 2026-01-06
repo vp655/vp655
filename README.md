@@ -9,7 +9,7 @@
 
 ## 🛠️ Tools
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-blue)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?logo=mathworks)
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)

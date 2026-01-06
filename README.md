@@ -1,4 +1,21 @@
-## Hi there 👋
+## Virochan Pandit
+
+🎓 Applied Math @ Johns Hopkins (BS/MS)  
+📈 Quant Researcher  
+🏈 Built ML models for the Baltimore Ravens  
+📄 First-author publication in *Theory & Decision*
+
+## Current Work
+- Equity volatility research (Walleye Capital, Summer 2026)
+- NFL player evaluation using tracking data (XGBoost, animations)
+- Voting theory & social choice research
+
+## 🛠️ Tools
+Python, C++, PyTorch, XGBoost, pandas, SLURM, Linux
+
+## 📫 Reach Me
+- LinkedIn: https://www.linkedin.com/in/virochan-pandit/
+- Email: vpandit3@jhu.edu
 
 <!--
 **vp655/vp655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

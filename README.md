@@ -17,22 +17,26 @@
 ![Linux](https://img.shields.io/badge/Linux-black)
 
 
-## Top Repositories 
+## Top 3 Repositories 
 
-# Project 1: Finding the Fairest Voting System(https://github.com/vp655/VotingSystems)
+# Project 1: Finding the Fairest Voting System
 
+- https://github.com/vp655/VotingSystems
 - Published in Springer Nature (https://link.springer.com/article/10.1007/s11238-025-10104-5)
 - Created object-oriented representation of voting systems, candidates, and voters
 - Ran Monte Carlo simulations to find voting system that has the highest probability of satisfying criteria 
 
-# Project 2: Evaluating NFL players (https://github.com/vp655/RouteAnalytics)
+# Project 2: Evaluating NFL players 
 
+- https://github.com/vp655/RouteAnalytics
 - Route Analytics is a package that NFL teams can use to evalluate talent
 - It provides a win score for each player on every play
 - Production level animations are also created 
 
-# Project 3: Markov Switching Model (https://github.com/vp655/MSM)
+# Project 3: Markov Switching Model 
+- https://github.com/vp655/MSM
 - Built model to predict hidden states with fast convergence
+- Uses Gibbs sampling and minimal information to estimate parameters with 90% accuracy
 
 ## 📫 Reach Me
 - LinkedIn: https://www.linkedin.com/in/virochan-pandit/

@@ -15,13 +15,6 @@
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
 
-<br />
-
-![XGBoost](https://img.shields.io/badge/XGBoost-017CEE)
-![Gibbs Sampling](https://img.shields.io/badge/Gibbs-Sampling-6A5ACD)
-![Monte Carlo](https://img.shields.io/badge/Monte-Carlo-2E8B57)
-
-
 
 # Top 3 Repositories 
 
@@ -38,7 +31,7 @@
 - Route Analytics is a package that NFL teams can use to evalluate talent
 - It provides a win score for each player on every play
 - Production level animations are also created
-- Tools: ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter) ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+- Tools: ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter) ![Linux](https://img.shields.io/badge/Linux-black?logo=linux) ![XGBoost](https://img.shields.io/badge/XGBoost-017CEE)
 
 ## Project 3: Markov Switching Model 
 - https://github.com/vp655/MSM
